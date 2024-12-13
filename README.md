@@ -148,9 +148,6 @@ Sugan Kanagasenthinathan - s6sukana@uni-bonn.de
 
 
 
-Project Link: [https://github.com/here-to-learn0/Video_frame_prediction](https://github.com/here-to-learn0/Video_frame_prediction)
-
-
 ## Acknowledgments
 
  This project is not possible without multiple great opensourced codebases. We list some notable examples below.
